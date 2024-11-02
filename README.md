@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liwa088
 - 👀 I’m interested in programming especially in python language
-- 🌱 I’m currently learning C/C++ and java script and web development 
+- 🌱 I’m currently learning C/C++ and java and web development 
 - 💞️ I’m looking to collaborate on cyber security works and courses
 - 📫 How to reach me my email is: liwabelguith2004@gmail.com
 - 😄 Pronouns: he/him
